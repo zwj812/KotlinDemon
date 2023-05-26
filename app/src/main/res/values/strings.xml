@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="my_amount_textview">Amount：%s</string>
+    <string name="my_time_textview">Time：%s</string>
 </resources>
